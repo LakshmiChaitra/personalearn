@@ -33,7 +33,7 @@ st.markdown("""
 
 # ── SIDEBAR ───────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg", width=80)
+    st.markdown("### 👩‍💻 Chaitra")
     st.markdown("### 🎓 PersonaLearn")
     st.caption("ML-Powered Personalized Learning Paths")
     st.divider()
